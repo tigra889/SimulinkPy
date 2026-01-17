@@ -1,6 +1,6 @@
 # https://developers.home-assistant.io/docs/add-ons/configuration#add-on-config
 name: SimulinkPy
-version: "1.0.3"
+version: "1.0.4"
 slug: simulinkpy
 description: SimulinPy Script
 url: "https://github.com/tigra889/SimulinkPy/"
