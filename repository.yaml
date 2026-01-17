@@ -1,4 +1,4 @@
 # https://developers.home-assistant.io/docs/add-ons/repository#repository-configuration
-name: Example Home Assistant add-on repository
-url: 'https://github.com/home-assistant/addons-example'
-maintainer: Awesome Maintainer <awesome@example.com>
+name: SimulinkPy
+url: 'https://github.com/tigra889/SimulinkPy'
+maintainer: Tobias Lingk <89455018+tigra889@users.noreply.github.com>
