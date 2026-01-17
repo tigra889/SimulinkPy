@@ -1,0 +1,17 @@
+# https://developers.home-assistant.io/docs/add-ons/configuration#add-on-config
+name: SimulinkPy
+version: "1.0.0"
+slug: simulinkpy
+description: SimulinPy Script
+url: "https://github.com/tigra889/SimulinkPy/tree/main/example"
+arch:
+  - aarch64
+  - amd64
+init: false
+map:
+  - share:rw
+options:
+  message: "Hello world..."
+schema:
+  message: "str?"
+image: "ghcr.io/home-assistant/{arch}-addon-example"
